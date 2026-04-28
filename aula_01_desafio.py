@@ -66,3 +66,4 @@ print(f"Você ganhou um desconto de: R$ {desconto:.2f}.")
 print(f"Você irá pagar: R$ {total_final:.2f}.")
 print("\nOBRIGADA PELA PREFERÊNCIA, VOLTE SEMPRE!")
 
+edição pelo github
