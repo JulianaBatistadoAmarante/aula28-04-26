@@ -45,3 +45,6 @@ elif nivel_dor >= 1:
 else:
   print("Sem dor")
 
+  estou aprendedo fazer nova branch
+  
+
